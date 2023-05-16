@@ -1,0 +1,14 @@
+2023-05-16 20:05:888 INFO  HomePage :49 - Mouse Hover On Men Menu Tab [[ChromeDriver: chrome on WINDOWS (6e9a7cabe491ef09e3693ee8968820ed)] -> xpath: //span[normalize-space()='Men']]
+2023-05-16 20:05:129 INFO  PantsPage :19 - Mouse Hover On Men Pants Product Name Option Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Cronus Yoga Pant']'
+2023-05-16 20:05:963 INFO  HomePage :85 - mouseHoverOnGearMenuOption [[ChromeDriver: chrome on WINDOWS (30fc378c636a32992ed1d35523511b5c)] -> xpath: //span[normalize-space()='Gear']]
+2023-05-16 20:05:322 INFO  HomePage :95 - mouseHoverOnGearMenuAndClicksOnBagsOption [[ChromeDriver: chrome on WINDOWS (30fc378c636a32992ed1d35523511b5c)] -> xpath: //a[@id='ui-id-25']]
+2023-05-16 20:05:441 INFO  HomePage :49 - Mouse Hover On Men Menu Tab [[ChromeDriver: chrome on WINDOWS (efb668a1ea66a31bbb581e9a86abf839)] -> xpath: //span[normalize-space()='Men']]
+2023-05-16 20:05:628 INFO  PantsPage :19 - Mouse Hover On Men Pants Product Name Option Proxy element for: DefaultElementLocator 'By.xpath: //a[normalize-space()='Cronus Yoga Pant']'
+2023-05-16 20:05:720 INFO  HomePage :22 - Mouse Hover On Women Menu Tab [[ChromeDriver: chrome on WINDOWS (7eba84bcae971a84a051e48602f65c90)] -> xpath: //span[contains(text(),'Women')]]
+2023-05-16 20:05:21 INFO  HomePage :31 - Mouse Hover On Women Top Menu Option [[ChromeDriver: chrome on WINDOWS (7eba84bcae971a84a051e48602f65c90)] -> xpath: //a[@id='ui-id-9']//span[contains(text(),'Tops')]]
+2023-05-16 20:05:796 INFO  HomePage :22 - Mouse Hover On Women Menu Tab [[ChromeDriver: chrome on WINDOWS (9e32d12a5c130065bc094b5b8d9447c4)] -> xpath: //span[contains(text(),'Women')]]
+2023-05-16 20:05:272 INFO  HomePage :31 - Mouse Hover On Women Top Menu Option [[ChromeDriver: chrome on WINDOWS (9e32d12a5c130065bc094b5b8d9447c4)] -> xpath: //a[@id='ui-id-9']//span[contains(text(),'Tops')]]
+2023-05-16 20:05:364 INFO  HomePage :22 - Mouse Hover On Women Menu Tab [[ChromeDriver: chrome on WINDOWS (74aeab98516065abb30356d38bea255b)] -> xpath: //span[contains(text(),'Women')]]
+2023-05-16 20:05:761 INFO  HomePage :31 - Mouse Hover On Women Top Menu Option [[ChromeDriver: chrome on WINDOWS (74aeab98516065abb30356d38bea255b)] -> xpath: //a[@id='ui-id-9']//span[contains(text(),'Tops')]]
+2023-05-16 20:05:160 INFO  HomePage :22 - Mouse Hover On Women Menu Tab [[ChromeDriver: chrome on WINDOWS (ba98b88a66b0145dcd52b38f181c059c)] -> xpath: //span[contains(text(),'Women')]]
+2023-05-16 20:05:670 INFO  HomePage :31 - Mouse Hover On Women Top Menu Option [[ChromeDriver: chrome on WINDOWS (ba98b88a66b0145dcd52b38f181c059c)] -> xpath: //a[@id='ui-id-9']//span[contains(text(),'Tops')]]
